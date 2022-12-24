@@ -1,0 +1,34 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: cornsilk;
+    color:cadetblue;
+}
+header{
+    margin: 5px;
+    text-align: center;
+
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 3;
+    gap: 50px;
+    padding: 10px;
+}
+.one img{
+    width: 200px;
+    height: 400px;
+    
+}
+.two img{
+    width: 250px;
+    height: 500px;
+    margin-top: 30px;
+    
+}
+.three img{
+    width: 200px;
+    height: 400px;
+    text-align: center;  
+}
+
